@@ -1,0 +1,31 @@
+.jumbotron {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.img {
+  position: absolute;
+  padding-bottom: 3rem;
+  left: 50%;
+  transform: translate(-50%, -70%);
+}
+.intro {
+  padding-top: 1rem;
+  padding-bottom: 10rem;
+}
+.about2 {
+  font-size: 20px;
+  padding-bottom: 1rem;
+}
+.lead {
+  padding-right: 5rem;
+  padding-left: 5rem;
+  padding-top: 1rem;
+  font-size: 20px;
+}
+.row {
+  padding-top: 5rem;
+}
+.intro2 {
+  padding-top: 2rem;
+}

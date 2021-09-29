@@ -1,0 +1,36 @@
+.jumbotron {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.img {
+  padding-bottom: 3rem;
+}
+.intro {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+.about2 {
+  font-size: 25px;
+  padding-bottom: 1rem;
+}
+.lead {
+  padding-right: 3rem;
+  padding-left: 3rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  font-size: 25px;
+}
+.col-6 {
+  font-size: 24px;
+}
+.row {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.card-body {
+  font-size: 20px;
+}
+.space {
+  padding-bottom: 1rem;
+}

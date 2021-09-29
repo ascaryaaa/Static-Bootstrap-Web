@@ -1,0 +1,56 @@
+.jumbotron {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.img {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 0%);
+}
+.intro {
+  text-align: center;
+  color: black;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 30%);
+  font-size: 50px;
+}
+.welcome {
+  text-align: center;
+  color: black;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 800%);
+  font-size: 17px;
+}
+@media (min-width: 564px) {
+  .welcome {
+    text-align: center;
+    color: black;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 650%);
+    font-size: 17px;
+  }
+}
+@media (min-width: 777px) {
+  .welcome {
+    text-align: center;
+    color: black;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 500%);
+    font-size: 17px;
+  }
+}
+@media (min-width: 826px) {
+  .welcome {
+    text-align: center;
+    color: black;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 1000%);
+    font-size: 17px;
+  }
+}

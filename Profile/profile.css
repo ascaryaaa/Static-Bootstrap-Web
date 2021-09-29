@@ -1,0 +1,44 @@
+.intro {
+  padding-bottom: 2rem;
+}
+.jumbotron {
+  position: relative;
+  padding-top: 3rem;
+}
+.text1 {
+  padding-top: 2rem;
+}
+.about1 {
+  padding-top: 2rem;
+}
+.about2 {
+  padding-bottom: 5rem;
+  font-size: 25px;
+}
+.col {
+  padding-top: 1rem;
+  font-size: 30px;
+}
+.row {
+  padding-top: 1rem;
+  font-size: 20px;
+  padding-bottom: 2rem;
+}
+.col2 {
+  padding-top: 1rem;
+  font-size: 30px;
+}
+.col2-text {
+  padding-top: 2rem;
+}
+.card-title {
+  padding-top: 1rem;
+}
+.col3-text {
+  padding-top: 2rem;
+  font-size: 25px;
+}
+.col3-text2 {
+  font-size: 15px;
+  padding-bottom: 2rem;
+}
